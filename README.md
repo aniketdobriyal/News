@@ -1,4 +1,4 @@
-# NewsWave - A React News Application
+# Hunk-News - A React News Application
 
 A dynamic news application built with React that fetches the latest news articles from a news API. This app allows users to browse and filter news articles by categories like Politics, Entertainment, Sports, and Technology. The project demonstrates front-end development skills, API integration, and data filtering.
 
