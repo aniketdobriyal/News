@@ -13,7 +13,7 @@ A dynamic news application built with React that fetches the latest news article
 
 ## Screenshots
 
-![Home Page](screenshot-home.jpeg)  
+![Home Page](Screenshot_4-4-2025_143828_news.zynthara.in.jpeg)  
 *Replace with actual screenshots of your app if available.*
 
 ## Technologies Used
